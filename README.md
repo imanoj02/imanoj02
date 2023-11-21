@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C,C++, Python, Java.
 - 💞️ I’m looking to collaborate on some new project.
 - 📫 How to reach me
+- Linkedin: https://www.linkedin.com/in/manoj-chaudhary-80936824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Instagram: https://instagram.com/imanoj_02?igshid=YmMyMTA2M2Y=
 - Snapchat: https://www.snapchat.com/add/imanoj_09?share_id=dfQ2-7tZAp4&locale=en-US
 
